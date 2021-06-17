@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ɵHAMMER_PROVIDERS__POST_R3__ } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'bases';
+
+
+  
 }
